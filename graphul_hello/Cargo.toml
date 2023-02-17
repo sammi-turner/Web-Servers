@@ -1,5 +1,5 @@
 [package]
-name = "hello_graphul"
+name = "graphul_hello"
 version = "0.1.0"
 edition = "2021"
 
