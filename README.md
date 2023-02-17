@@ -1,2 +1,3 @@
-# Rocket-Apps
-Applications made using the rocket.rs library.
+# Web Servers
+
+Example web server code in Rust.
