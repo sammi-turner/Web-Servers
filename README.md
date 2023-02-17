@@ -1,3 +1,3 @@
 # Web Servers
 
-Example web server code in Rust.
+Web server examples.
